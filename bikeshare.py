@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1BOHEXEXK-seYUgmKhnBdiGDSguzzdi7t
 """
 
-#created the original file with Google colab, below 2 lines of code are required to load files from within Google drive
-#this enables me to run python without installing anything on my device
+#original file is Google colab, below 2 lines of code required to load files from within Google drive
+#this enables me to run python without installing software on local device
 #from google.colab import drive 
 #drive.mount('/content/gdrive')
 
