@@ -16,6 +16,8 @@ import time
 import pandas as pd
 import numpy as np
 
+#commented out the original location of the csv files, for colab I can just host them in drive
+
 #CITY_DATA = { 'chicago': 'gdrive/My Drive/chicago.csv',
 #              'new york': 'gdrive/My Drive/new_york_city.csv',
 #              'new york city': 'gdrive/My Drive/new_york_city.csv',
